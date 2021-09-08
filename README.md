@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dream-Code aka Steven Rivera
 - 👀 I’m interested in predictive analytics/data science
-- 🌱 I’m currently learning machine learning and statistical analysis
+- 🌱 I’m currently studying machine learning and more advanced statistical analysis beyond linear regression
 - 💞️ I’m looking to collaborate on data science projects focusing on healthcare and/or the retail sector
 - 📫 How to reach me stevenriveraresume.com
 
